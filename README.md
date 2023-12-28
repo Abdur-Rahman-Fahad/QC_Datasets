@@ -4,3 +4,5 @@
 * Context: a string feature.
 * Question: a string feature.
 * Label: a string feature
+  
+Following datasets can be used for various research purposes in the domain of Bangla NLP.
