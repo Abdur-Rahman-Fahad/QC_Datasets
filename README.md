@@ -5,4 +5,4 @@
 * Question: a string feature.
 * Label: a string feature
   
-Following datasets can be used for various research purposes in the domain of Bangla NLP.
+These datasets were used to create Two Classification models that can evaluate Grammatical correctness and Relevancy of the generated questions from a given context in the following [journal article] (https://link.springer.com/article/10.1007/s44227-023-00018-5). They can also be used for different research purpose in the domain of Bangla NLP.
